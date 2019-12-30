@@ -1,0 +1,104 @@
+Types of Server
+A Server is a computer or device on a network that manages network resources. For
+example, a file server is a computer and storage device dedicated to storing files
+Any user on the network can store files on the server. A print server is a computer
+that manages one or more printers and a network server is a computer that
+manages network traffic.
+Servers are often dedicated, meaning that they perform no other tasks besides their
+server tasks. On multiprocessing operating systems however, a single computer can
+execute several programs at once. A server in this case could refer to the program
+that is managing resources rather than the entire computer.
+What is Server Platform?
+A term often used synonymously with operating system. A platform is the underlying
+hardware or software for a system and is thus the engine that drives the server.
+Server types:
+Application Servers
+Sometimes referred to as a type of middleware, application servers occupy a large
+chunk of computing territory between database servers and the end user, and they
+often connect the two.
+Middleware is a software that connects two otherwise separate applications For
+example, there are a number of middleware products that link a database system to
+a Web server This allows users to request data from the database using forms
+displayed on a Web browser and it enables the Web server to return dynamic Web
+pages based on the user's requests and profile.
+The term middleware is used to describe separate products that serve as the glue
+between two applications. It is, therefore, distinct from import and export features
+that may be built into one of the applications. Middleware is sometimes called
+plumbing because it connects two sides of an application and passes data between
+them. Common middleware categories include:
+* TP monitors
+* DCE environments
+* RPC systems
+* Object Request Brokers (ORBs)
+* Database access systems
+* Message Passing
+Audio/Video Servers
+Audio/Video servers bring multimedia capabilities to Web sites by enabling them to
+broadcast streaming multimedia content. Streaming is a technique for transferring
+data such that it can be processed as a steady and continuous stream. Streaming
+technologies are becoming increasingly important with the growth of the Internet
+because most users do not have fast enough access to download large multimedia
+files quickly. With streaming, the client browser or plug-in can starts displaying the
+data before the entire file has been transmitted.
+For streaming to work, the client side receiving the data must be able to collect the
+data and send it as a steady stream to the application that is processing the data
+and converting it to sound or pictures. This means that if the streaming client
+receives the data more quickly than required, it needs to save the excess data in a
+buffer If the data doesn't come quickly enough, however, the presentation of the
+data will not be smooth.
+There are a number of competing streaming technologies emerging. For audio data
+on the Internet, the de facto standard is Progressive Network's RealAudio.
+Chat Servers
+Chat servers enable a large number of users to exchange information in an
+environment similar to Internet newsgroups that offer real-time discussion
+capabilities. Real time means occurring immediately. The term is used to describe a
+number of different computer features. For example, real-time operating systems are
+systems that respond to input immediately. They are used for such tasks as
+navigation, in which the computer must react to a steady flow of new information
+without interruption. Most general-purpose operating systems are not real-time
+because they can take a few seconds, or even minutes, to react.
+Real time can also refer to events simulated by a computer at the same speed that
+they would occur in real life. In graphics animation, for example, a real-time program
+would display objects moving across the screen at the same speed that they would
+actually move.
+Fax Servers
+A fax server is an ideal solution for organizations looking to reduce incoming and
+outgoing telephone resources but that need to fax actual documents.
+FTP Servers
+One of the oldest of the Internet services, File Transfer Protocol makes it possible to
+move one or more files securely between computers while providing file security and
+organization as well as transfer control.
+Groupware Servers
+A GroupWare server is software designed to enable users to collaborate, regardless
+of location, via the Internet or a corporate Intranet and to work together in a virtual
+atmosphere.
+IRC Servers
+An option for those seeking real-time capabilities, Internet Relay Chat consists of
+various separate networks (or "nets") of servers that allow users to connect to each
+other via an IRC network.
+List Servers
+List servers offer a way to better manage mailing lists, whether they are interactive
+discussions open to the public or one-way lists that deliver announcements,
+newsletters, or advertising.
+Mail Servers
+Almost as ubiquitous and crucial as Web servers, mail servers move and store mail
+over corporate networks via LANs and WANs and across the Internet.
+News Servers
+News servers act as a distribution and delivery source for the thousands of public
+news groups currently accessible over the USENET news network. USENET is a
+worldwide bulletin board system that can be accessed through the Internet or
+through many online services The USENET contains more than 14,000 forums
+called newsgroups that cover every imaginable interest group. It is used daily by
+millions of people around the world.
+Proxy Servers
+Proxy servers sit between a client program typically a Web browser and an external
+server (typically another server on the Web) to filter requests, improve performance,
+and share connections.
+Telnet Servers
+A Telnet server enables users to log on to a host computer and perform tasks as if 
+they're working on the remote computer itself.
+Web Servers
+At its core, a Web server serves static content to a Web browser by loading a file
+from a disk and serving it across the network to a user's Web browser. The browser
+and server talking to each other using HTTP mediate this entire exchange.
+Source: http://www.go4expert.com/articles/types-of-server-t325/

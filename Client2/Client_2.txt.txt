@@ -1,0 +1,10 @@
+Client:
+
+A thin client is a lightweight computer that has been optimized for establishing a remote connection with a server-based computing environment. The server does most of the work, which can include launching software programs, performing calculations, and storing data. This contrasts with a fat client or a conventional personal computer; the former is also intended for working in a client–server model but has significant local processing power, while the latter aims to perform its function mostly locally.
+
+Thin clients occur as components of a broader computing infrastructure, where many clients share their computations with a server or server farm. The server-side infrastructure uses cloud computing software such as application virtualization, hosted shared desktop (HSD) or desktop virtualization (VDI). This combination forms what is known as a cloud-based system where desktop resources are centralized at one or more data centers. The benefits of centralization are hardware resource optimization, reduced software maintenance, and improved security.
+
+Example of hardware resource optimization: Cabling, busing and I/O can be minimized while idle memory and processing power can be applied to user sessions that most need it.
+Example of reduced software maintenance: Software patching and operating system (OS) migrations can be applied, tested and activated for all users in one instance to accelerate roll-out and improve administrative efficiency.
+Example of improved security: Software assets are centralized and easily fire-walled, monitored and protected. Sensitive data is uncompromised in cases of desktop loss or theft.
+Thin client hardware generally supports a keyboard, mouse, monitor, jacks for sound peripherals, and open ports for USB devices (e.g., printer, flash drive, webcam). Some thin clients include legacy serial or parallel ports to support older devices such as receipt printers, scales or time clocks. Thin client software typically consists of a graphical user interface (GUI), cloud access agents (e.g., RDP, ICA, PCoIP), a local web browser, terminal emulators (in some cases), and a basic set of local utilities.
